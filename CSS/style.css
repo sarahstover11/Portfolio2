@@ -1,0 +1,459 @@
+.hero {
+    display: flex;
+   
+ align-items: center;
+ justify-content: flex-end;
+ padding: 100px;
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size: cover;
+ height: 800px;
+ 
+ background-image:url("../Images/hero\ image.png");
+ }
+ 
+ 
+     .topnav {
+       background-color: #333;
+       display: flex; 
+       align-items: center;
+       justify-content: space-between;
+       overflow: hidden;
+     }
+     .topnav ul{
+         display: flex;
+     }
+     .topnav li{
+         list-style: none;
+         padding: 20px;
+     }
+     
+     /* Style the links inside the navigation bar */
+     .topnav a {
+       float: left;
+       color: #f2f2f2;
+       text-align: center;
+       padding: 14px 16px;
+       text-decoration: none;
+       font-size: 17px;
+     }
+     
+     /* Change the color of links on hover */
+     .topnav a:hover {
+       background-color: #6B4840;
+       color: black;
+     }
+     
+     /* Add a color to the active/current link */
+     .topnav a.active {
+       background-color: #DEC3C6;
+       color: white;
+     }
+ 
+ 
+ 
+               .topnav {
+       background-color: #333;
+       display: flex; 
+       align-items: center;
+       justify-content: space-between;
+       overflow: hidden;
+     }
+     .topnav ul{
+         display: flex;
+     }
+     .topnav li{
+         list-style: none;
+         padding: 20px;
+     }
+     
+     /* Style the links inside the navigation bar */
+     .topnav a {
+       float: left;
+       color: #f2f2f2;
+       text-align: center;
+       padding: 14px 16px;
+       text-decoration: none;
+       font-size: 17px;
+     }
+     
+     /* Change the color of links on hover */
+     .topnav a:hover {
+       background-color: #6B4840;
+       color: black;
+     }
+     
+     /* Add a color to the active/current link */
+     .topnav a.active {
+       background-color: #DEC3C6;
+       color: white;
+     }
+ 
+     .topnav {
+       background-color: #333;
+       display: flex; 
+       align-items: center;
+       justify-content: space-between;
+       overflow: hidden;
+     }
+     .topnav ul{
+         display: flex;
+     }
+     .topnav li{
+         list-style: none;
+         padding: 20px;
+     }
+     
+     /* Style the links inside the navigation bar */
+     .topnav a {
+       float: left;
+       color: #f2f2f2;
+       text-align: center;
+       padding: 14px 16px;
+       text-decoration: none;
+       font-size: 17px;
+       font-family: "lora" !important;
+     }
+     
+     /* Change the color of links on hover */
+     .topnav a:hover {
+       background-color: #6B4840;
+       color: black;
+     }
+     
+     /* Add a color to the active/current link */
+     .topnav a.active {
+       background-color: #DEC3C6;
+       color: white;
+     }
+ 
+ 
+ 
+               .topnav {
+       background-color: #333;
+       display: flex; 
+       align-items: center;
+       justify-content: space-between;
+       overflow: hidden;
+     }
+     .topnav ul{
+         display: flex;
+     }
+     .topnav li{
+         list-style: none;
+         padding: 20px;
+     }
+     
+     /* Style the links inside the navigation bar */
+     .topnav a {
+       float: left;
+       color: #f2f2f2;
+       text-align: center;
+       padding: 14px 16px;
+       text-decoration: none;
+       font-size: 17px;
+     }
+     
+     /* Change the color of links on hover */
+     .topnav a:hover {
+       background-color: #6B4840;
+       color: black;
+     }
+     
+     /* Add a color to the active/current link */
+     .topnav a.active {
+       background-color: #DEC3C6;
+       color: white;
+  
+    }
+    .content {
+      max-width: 300px;
+      margin: 0 auto;
+      padding: 50px;
+      background-color: #FFFFFF;
+      text-align: center;
+    }
+    button {
+      padding: 15px;
+      background-color: #373738;
+      color: white;
+      font-size: 15px;
+      border-radius: 4px;
+    }
+    footer {
+      background-color: #373738;
+      padding: 5px;
+      color: white;
+    }
+    footer ul {
+      list-style: none;
+      padding-left: 5px;
+    }
+    footer li {
+      display: inline-block;
+      padding: 0px 7px;
+    }
+    .heading {
+      text-align: center;
+      padding: 15px 5px;
+      font-size: 30px;
+    }
+.heroText {font-family: 'Lora', serif;
+color: #740622;}
+    /* My UX Skills Section */
+    .flexContainer {
+      display: flex;
+      padding: 60px 30px;
+    }
+    .flexContainer div {
+      width: 33%;
+      padding: 5px;
+    }
+    .skillsContainer{
+        display: flex; 
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    /* My Work Section */
+    .myWork {
+      padding: 20px 20px;
+      padding-top: 0;
+      background-color: #EBEBEB;
+    }
+    .workGrid {
+      display: grid;
+      grid-template-columns: 30% 70%;
+      gap: 50px;
+    }
+    .workGrid img {
+      width: 100%;
+      margin: 0 auto;
+      display: block;
+    }
+   
+   
+   
+
+  
+  /* Footer */
+   
+
+
+
+.footer {
+  background-color: #333;
+  display: flex; 
+  align-items: center;
+  justify-content: space-between;
+  overflow: hidden;
+}
+.footer ul{
+    display: flex;
+}
+.footer li{
+    list-style: none;
+    padding: 20px;
+}
+
+/* Style the links inside the navigation bar */
+.footer a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.footer a:hover {
+  background-color: #6B4840;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.footer a.active {
+  background-color: #DEC3C6;
+  color: white;
+}
+
+
+
+          .footer {
+  background-color: #333;
+  display: flex; 
+  align-items: center;
+  justify-content: space-between;
+  overflow: hidden;
+}
+.footer ul{
+    display: flex;
+}
+.footer li{
+    list-style: none;
+    padding: 20px;
+}
+
+/* Style the links inside the navigation bar */
+.footer a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.footer a:hover {
+  background-color: #6B4840;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.footer a.active {
+  background-color: #DEC3C6;
+  color: white;
+}
+
+.footer {
+  background-color: #333;
+  display: flex; 
+  align-items: center;
+  justify-content: space-between;
+  overflow: hidden;
+}
+.footer ul{
+    display: flex;
+}
+.footer li{
+    list-style: none;
+    padding: 20px;
+}
+
+/* Style the links inside the navigation bar */
+.footer a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.footer a:hover {
+  background-color: #6B4840;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.footer a.active {
+  background-color: #DEC3C6;
+  color: white;
+}
+
+
+
+          .footer {
+  background-color: #333;
+  display: flex; 
+  align-items: center;
+  justify-content: space-between;
+  overflow: hidden;
+}
+.footer ul{
+    display: flex;
+}
+.footer li{
+    list-style: none;
+    padding: 20px;
+}
+
+/* Style the links inside the navigation bar */
+.footer a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.footer a:hover {
+  background-color: #6B4840;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.footer a.active {
+  background-color: #DEC3C6;
+  color: white;
+}
+
+body {
+    margin: 0;
+  }
+  header {
+    background-color: #373738;
+    padding: 15px;
+  }
+  header ul {
+    float: right;
+    color: white;
+  }
+  header li {
+    display: inline-block;
+    padding: 0px 5px;
+  }
+  header p {
+    display: inline-block;
+  }
+  .heroImg {
+    background-color: #EBEBEB;
+    padding: 100px 15px;
+  }
+  .content {
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: #FFFFFF;
+    text-align: center;
+  }
+  button {
+    padding: 15px;
+    background-color: #373738;
+    color: white;
+    font-size: 15px;
+    border-radius: 4px;
+  }
+  footer {
+    background-color: #373738;
+    padding: 5px;
+    color: white;
+  }
+  footer ul {
+    list-style: none;
+    padding-left: 5px;
+  }
+  footer li {
+    display: inline-block;
+    padding: 0px 7px;
+  }
+  .heading {
+    text-align: center;
+    padding: 15px 5px;
+    font-size: 30px;
+  }
+
+  /* Mobile */
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: white;
+    }
+    div {
+        display: flex;
+        flex-direction: row-reverse;
+    }
